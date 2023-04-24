@@ -1,6 +1,6 @@
 # Pokedex React
 
-react-pokemon-app est un une application web permettant l'affichage des pokémons. L'application a été entierement réalisée avec [React](https://fr.legacy.reactjs.org/ "Framework React"), [TypeScript](https://www.typescriptlang.org/ "TypeScript") et [Vite](https://vitejs.dev/ "L'environnement Vite").
+react-pokemon-app est un une application web permettant l'affichage des pokémons. L'application a été entierement réalisée avec [React](https://react.dev/ "Framework React"), [TypeScript](https://www.typescriptlang.org/ "TypeScript") et [Vite](https://vitejs.dev/ "L'environnement Vite").
 
 Ce projet a été généré avec Vite.
 
